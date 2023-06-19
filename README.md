@@ -14,11 +14,7 @@ The Bootstrap site utilizes the Bootstrap framework to create a modern and user-
 
 The Tailwind CSS site showcases the power and flexibility of the Tailwind CSS framework. It leverages Tailwind CSS's utility-first approach to design a visually appealing and highly customizable website. The site demonstrates the use of Tailwind CSS's utility classes to create responsive layouts, apply custom styling, and implement dynamic features. It offers a unique visual experience while maintaining the eco-friendly theme of BitGreen.
 
-## Screenshots
-
-Here are a few screenshots of the BitGreen websites:
-
-![Landing](./screenshots/landing.png)
+## Screenshot
 
 ![Page](./screenshots/page.png)
 
