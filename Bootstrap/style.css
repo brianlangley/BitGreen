@@ -1,0 +1,47 @@
+.nav-logo {
+    color: rgb(2, 211, 2);
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.link-items {
+    color: whitesmoke;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: greenyellow;
+}
+
+.greenBtn {
+    background-color: rgb(2, 211, 2);
+    color: whitesmoke;
+    border: none;
+    padding: 1em 1em;
+}
+
+.greenBtn:hover,
+.greenBtn:focus {
+    background-color: greenyellow;
+    color: black;
+}
+
+.featureIcon {
+    margin-bottom: 2vh;
+    padding-right: 1vw;
+}
+
+@media screen and (max-width: 600px) {
+
+    article img {
+        width: 98vw;
+    }
+
+    section h3 {
+        font-size: 1em;
+    }
+
+    section p {
+        font-size: 0.8em;
+    }
+}
